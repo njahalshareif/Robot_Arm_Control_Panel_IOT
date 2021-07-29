@@ -2,4 +2,4 @@
 In this repository we designed an interface to control the robot arm using HTML, CSS and JavaScript
 
 
-![type anything here hdhdj](nameoftheimg.PGJ)
+![type anything here hdhdj](Arm_Panel.PGJ)
